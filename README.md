@@ -13,10 +13,15 @@ Memory Game is a classic card-matching game where the player needs to find pairs
 - Option to restart the game at any time
 
 ## Screenshots
+-Game start
+<img width="1465" alt="game-start" src="https://github.com/cenarl/memoryGame/assets/102188442/f7c97ace-a459-4a96-9774-95a8ddf835c3">
 
-![Game Start]("https://github.com/cenarl/memoryGame/assets/102188442/7103ffb5-d1a1-4f05-8de0-74155da943b1")
-![Game In Progress]("https://github.com/cenarl/memoryGame/assets/102188442/ce2fcbb5-29b0-474c-ba64-7b615624e698")
-![Game Over]("https://github.com/cenarl/memoryGame/assets/102188442/85d50893-ca31-4c94-ae10-ba1ce43df07a")
+-Game in progress
+<img width="1452" alt="game-in-progress" src="https://github.com/cenarl/memoryGame/assets/102188442/084d2301-9685-492d-8a6f-bfdc165abadf">
+
+-Game over
+<img width="449" alt="game-over" src="https://github.com/cenarl/memoryGame/assets/102188442/61e1bbef-28eb-4add-a36e-6d578e220e1d">
+
 
 ## Usage
 
