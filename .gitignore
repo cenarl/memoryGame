@@ -55,6 +55,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+#img
+img/
+.png
 
 # Dependency directories
 node_modules/
